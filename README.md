@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayan Deb</h1>
 <h3 align="center">A passionate and motivated learner from India</h3>
 
-- 🌱 I’m currently learning **Django and Java**
+- 🌱 I’m currently learning **PySpark** , **Microsoft Azure Fundamentals for Data Engineering** and **uses of Databricks**.
 
 - 📫 How to reach me **deb.ayan00518@gmail.com**
 
