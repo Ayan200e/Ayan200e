@@ -1,4 +1,6 @@
-<img data-importer="image" align="left" height="180" src="https://media1.tenor.com/m/SpXWQo0Mq7EAAAAd/welcome-michael-scott.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="180" src="https://media1.tenor.com/m/SpXWQo0Mq7EAAAAd/welcome-michael-scott.gif"  />
+</div>
 
 ###
 
