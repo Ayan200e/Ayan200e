@@ -10,7 +10,7 @@ Obsessed with clean code, proper logging, and reproducibility.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [deb.ayan00518@gmail.com](mailto:deb.ayan00518@gmail.com)
-* 🧠  I'm currently learning PySpark , Microsoft Azure Data Engineer Fundamentals (AZ-900) , FastAPI and the uses of Databricks.
+* 🧠  I'm currently learning POWER BI, Microsoft Azure and advanced SQL.
 * 💬  Weird Info -  Can sing and dance ( totally in an unprofessional way ) but can confirm this guy reads , write and paint more often.
 
 <p align="left">
